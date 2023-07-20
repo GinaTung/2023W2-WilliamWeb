@@ -54,6 +54,9 @@ h5{
 .mb-28{
     margin-bottom: 28px;
 }
+.mb-76{
+    margin-bottom: 76px;
+}
 .mr-2{
     margin-right: 16px;
 }
@@ -191,7 +194,4 @@ h5{
 .footer{
     padding: 40px 0;
     text-align: center;
-}
-.mb-76{
-    margin-bottom: 76px;
 }
