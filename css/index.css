@@ -33,6 +33,9 @@ h4{
 h5{
     font-size: 20px;
 }
+.fz-24{
+    font-size: 24px;
+}
 .mb-0{
     margin-bottom: 4px;
 }
@@ -95,9 +98,6 @@ h5{
 .justify-content-between{
     justify-content: space-between;
 }
-/* .flex-direction-column{
-    flex-direction: column;
-} */
 .align-items-center{
     align-items: center;
 }
