@@ -1,5 +1,6 @@
 # 2023W2-WilliamWeb
-1120727
+1120727作業修改
+
 ．可以使用 @import url('檔案位置'); 的方式全部集合在一個 all.css 的檔案內，HTML 的部分只需要引入 all.css 即可。
 
 ．可以運用一些更多元的容器，像是 ".header" ".section" ".footer" 作區塊的包裝。
